@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I am Tarique,
+###Glad to see you here! ;
+I am a backend developer. I am currently learning more about DevOps and Cloud. 👋
 I am a passionate software developer currently working on a self-driven project. I am always eager to learn new technologies and expand my skill set. I am deeply committed to contributing to the open-source community and leveraging technology to benefit humanity and address global challenges. With an open-minded approach, I am constantly seeking opportunities for growth and collaboration. I also seek support and sponsorship to further my work and make a meaningful impact. A simple thanks would mean a lot if you believe in my mission.
 
 
