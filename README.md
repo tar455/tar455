@@ -1,34 +1,63 @@
-### Hi I am Tarique,
-Glad to see you here!;
 
-I am a backend developer. learning more about DevOps and Cloud. 👋
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Tarique%F0%9F%91%8B;Let's+Connect!"/>
+</div>
 
-A passionate software developer currently working on a self-driven project. I am always eager to learn new technologies and expand my skill set. I am deeply committed to contributing to the open-source community and leveraging technology to benefit humanity and address global challenges. With an open-minded approach, I am constantly seeking opportunities for growth and collaboration. I also seek support and sponsorship to further my work and make a meaningful impact. A simple thanks would mean a lot if you believe in my mission.
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/TweetsTarique)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-tarique-ansari-9478a1189/)
+![border-seperator](assets/borderseparator.gif) 
+  
+![](https://komarev.com/ghpvc/?username=tar455)
+## About Tarique
+<p style="font-size:7px;">
+looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft awesome software 
+</p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-- 🔭 I’m currently working on Java Spring Boot.
-- 🌱 I’m currently learning Angular &  TypeScript
-- 💬 Ask me about ... Technology 
-- 📫 How to reach me: ... Reach out to me on tariqueansari455@gmail.com
-- 😄 Pronouns: ... He/Him, they/them
-- ⚡ Fun fact: ... Ada Lovelace, considered the world's first computer programmer, was a woman! Despite the stereotype, coding is a field for everyone. 
+## Technologies
+ 
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Languages</strong></td>
+</tr>
+<tr>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,firebase,mongodb" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=java,python,SpringBoot,c&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cybersecurity&Cloud</strong></td>
+	<td><strong>Tools</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,netlify&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim,githubactions&theme=dark"></td>
+</tr>
+</table>
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+## Github Trophies
 
 
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+## Github Stats
+<p style="display:flex; align=center; justify-content:center; ">
+<img src="https://github-readme-stats.vercel.app/api?username=tar455&theme=midnight-purple" style="margin-right:4px;">
+<img src="https://streak-stats.demolab.com/?user=tar455&theme=holi-theme">
+</p>
 
 
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
+														 
 
 
+## Latest Blogs
 
-<!--
-**tar455/tar455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- BLOGPOSTS:START -->
+ Updating soon
 
-Here are some ideas to get you started:
+<!-- BLOGPOSTS:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
