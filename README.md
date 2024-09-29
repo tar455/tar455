@@ -41,9 +41,7 @@ looking to make my developer workflow more awesome, build performant projects, u
 
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
-<img src="https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fusers%2Ftar455%2Fachievements%2Fyolo
-" style="margin-right:4px;">
-	
+<img src="https://github-profile-trophy.vercel.app/?username=tar455">	
 </p>
 
 ## Github Stats
