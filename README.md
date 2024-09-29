@@ -8,6 +8,12 @@
 ![border-seperator](assets/borderseparator.gif) 
   
 ![](https://komarev.com/ghpvc/?username=tar455)
+<div># Support My Work
+
+If you find my work helpful, consider supporting me through GitHub Sponsors:
+
+[![Sponsor tar455](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/tar455)
+</div>
 ## About Tarique
 <p style="font-size:7px;">
 looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft awesome software 
