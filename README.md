@@ -14,9 +14,9 @@ If you find my work helpful, consider supporting me through GitHub Sponsors:
 
 [![Sponsor tar455](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/tar455)
 </div>
-## About Tarique
+@ About Tarique
 <p style="font-size:7px;">
-looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft awesome software 
+<b>Passionate developer focused on building performant, scalable projects and crafting exceptional software. Always exploring ways to enhance workflows, optimize memory usage, and deliver high-quality solutions. Let's create something awesome together! </b>
 </p>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
