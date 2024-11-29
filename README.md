@@ -64,7 +64,7 @@ If you find my work helpful, consider supporting me through GitHub Sponsors:
 ## Latest Blogs
 
 <!-- BLOGPOSTS:START -->
- Updating soon
+ Updating soon....
 
 <!-- BLOGPOSTS:END -->
 
