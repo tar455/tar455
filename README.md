@@ -50,14 +50,26 @@ If you find my work helpful, consider supporting me through GitHub Sponsors:
 <img src="https://github-profile-trophy.vercel.app/?username=tar455">	
 </p>
 
-## Github Stats
-<p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=tar455&theme=midnight-purple" style="margin-right:4px;">
-<img src="https://streak-stats.demolab.com/?user=tar455&theme=holi-theme">
-</p>
+# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=tar455&theme=neon-palenight&hide_border=true&card_width=705">
+     </td>
+   </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tar455&theme=2077">
+     </td>
+   </tr>
+</table><table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tar455&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tar455&theme=aura_dark"></td>
+  </tr>
+</table>
 
-
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 														 
 
 
