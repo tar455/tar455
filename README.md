@@ -70,7 +70,8 @@ If you find my work helpful, consider supporting me through GitHub Sponsors:
 </table>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-														 
+<h3><b>Leetcode Stats</b></h3>
+<img src="https://leetcard.jacoblin.cool/tar455?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats">														 
 
 
 ## Latest Blogs
