@@ -5,10 +5,7 @@
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/TweetsTarique)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-tarique-ansari-9478a1189/)
-![border-seperator](assets/borderseparator.gif) 
-![github contribution grid snake animation](https://raw.githubusercontent.com/tar455/tar455/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+![border-seperator](assets/borderseparator.gif)
   
 ![](https://komarev.com/ghpvc/?username=tar455)
 <div># Support My Work
